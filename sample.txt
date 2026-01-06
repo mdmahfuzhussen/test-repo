@@ -1,1 +1,1 @@
-Adding  a  new line 
+Go to the main branch and create a new text file by the same name sample.txt  which is also present in the feature/update-text branch.
